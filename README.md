@@ -1,9 +1,14 @@
->**Name:** Akanksha Gahane
->**Company:** CODTECH IT SOLUTIONS
->**ID:** CT6WDS658
->**Domain:** FRONTEND WEB DEVELOPMENT
->**Duration:** June TO August 2024
->**Mentor:** Neela Santhosh Kumar
+**Name:** Akanksha Gahane
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT6WDS658
+
+**Domain:** FRONTEND WEB DEVELOPMENT
+
+**Duration:** June TO August 2024
+
+**Mentor:** Neela Santhosh Kumar
 
 
 ## Overview of the Project
@@ -12,6 +17,15 @@
 ![todolistoutput](https://github.com/user-attachments/assets/1da38f98-d0d2-4d56-9912-38a7d4c00280)
 
 
+
+### Features
+*Add Tasks:* Enter new tasks to the list.
+
+*Mark Tasks as Completed:* Toggle tasks between completed and active states.
+
+*Delete Tasks:* Remove tasks from the list.
+
+*Responsive Design:* Works well on desktop and mobile devices.
 
 ### Objective
 The objective of creating a To-Do List web application using HTML, CSS, and JavaScript is to provide users with a simple yet effective tool for managing their tasks efficiently. Here are the key objectives:
